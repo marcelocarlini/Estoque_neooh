@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-{{-- Versão 1.0.0.1 --}}
+Versão 1.0.0.1
 
 <head>
     <meta charset="utf-8">
