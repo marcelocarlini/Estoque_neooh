@@ -18,7 +18,7 @@
                                         <h5 class="card-title"><i class="fas fa-box"></i>&nbsp;Preencha os campos abaixo:
                                         </h5>
                                         <br><br>
-                                        <div class="row">git
+                                        <div class="row">
                                             <div class="col">
                                             </div>
                                             <div class="col-6">
