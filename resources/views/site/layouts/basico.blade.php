@@ -26,7 +26,7 @@
 
                 <ul class="nav nav-pills nav-fill nav-justified row align-items-start ">
                     <li class="nav-item">
-                        <a style="background-color: blueviolet" class="nav-link active" aria-current="page"
+                        <a style="background-color: #8a2be2" class="nav-link active" aria-current="page"
                             href="{{ route('site.index') }}">Home</a>
                     </li>
                     <li class="nav-item dropdown">
